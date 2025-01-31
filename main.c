@@ -33,6 +33,7 @@ int main(int argc, char *argv[]) {
 
     srand(time(NULL));
 
+    /*blaaaaaa */
     /* Initialize player position randomly */
     playerRow = 1;
     playerCol = 1;  
